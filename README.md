@@ -1,13 +1,13 @@
-== SQL LIKE Helpers
+# SQL LIKE Helpers
 
-Written by stakr GbR (Jan Sebastian Siwy, Martin Spickermann, Henning Staib GbR; http://stakr.de)
+Written by stakr GbR (Jan Sebastian Siwy, Martin Spickermann, Henning Staib GbR; http://www.stakr.de/)
 
-Source: http://svn.stakr.de/rails/plugins/sql_like_helpers
+Source: https://github.com/stakr/sql_like_helpers
 
 A plugin to build common pattern for the SQL LIKE comperator.
 
 
-=== Example
+## Example
 
 In order to find all users whose name contain 'john' you can use the following SQL statement:
 
